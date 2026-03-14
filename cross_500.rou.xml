@@ -1,0 +1,15 @@
+<routes>
+  <vType id="car" carFollowModel="IDM" maxSpeed="8.3" accel="3.0" decel="4.5" length="5.0" minGap="2.5" tau="1.0"/>
+  <route id="route_0" edges="N2C C2S"/>
+  <route id="route_1" edges="N2C C2E"/>
+  <route id="route_2" edges="N2C C2W"/>
+  <route id="route_3" edges="S2C C2N"/>
+  <route id="route_4" edges="S2C C2W"/>
+  <route id="route_5" edges="S2C C2E"/>
+  <route id="route_6" edges="E2C C2W"/>
+  <route id="route_7" edges="E2C C2S"/>
+  <route id="route_8" edges="E2C C2N"/>
+  <route id="route_9" edges="W2C C2E"/>
+  <route id="route_10" edges="W2C C2N"/>
+  <route id="route_11" edges="W2C C2S"/>
+</routes>
